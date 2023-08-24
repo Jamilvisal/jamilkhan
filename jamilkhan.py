@@ -141,7 +141,7 @@ _ooooo_________oo____oooo__ooooo__oo_____oo_ooooooo_
 \x1b[1;92m│\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m STATUS     \x1b[1;97m: \x1b[1;97mRANDOM CLONING 
 \x1b[1;92m│\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m TYPE       \x1b[1;97m: \x1b[1;97mFREE    
 \x1b[1;92m│\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m GITHUB     \x1b[1;97m:\x1b[1;97m《JAMILVISAL》
-\x1b[1;92m│\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m VERSION    \x1b[1;97m:\x1b[1;97m《0.2》         
+\x1b[1;92m│\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m VERSION    \x1b[1;97m:\x1b[1;97m《4.3》         
 \x1b[1;92m┗─────────────────────────────────────────┛    """
 
 khld = """
@@ -165,7 +165,7 @@ ____________________________________________________
 \x1b[1;92m│\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m STATUS     \x1b[1;97m: \x1b[1;97mRANDOM CLONING 
 \x1b[1;92m│\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m TYPE       \x1b[1;97m: \x1b[1;97mFREE    
 \x1b[1;92m│\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m GITHUB     \x1b[1;97m:\x1b[1;97m《JAMILVISAL》
-\x1b[1;92m│\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m VERSION    \x1b[1;97m:\x1b[1;97m《2.3》         
+\x1b[1;92m│\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m VERSION    \x1b[1;97m:\x1b[1;97m《4.3》         
 \x1b[1;92m┗─────────────────────────────────────────┛  """
 
 def main():
